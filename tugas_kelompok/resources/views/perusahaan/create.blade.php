@@ -43,16 +43,14 @@
 
                                 <div class="form-group">
                                     <label class="font-weight-bold">JENIS KELAMIN</label>
-                                    <input type="radio" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value='L'>Laki-laki<br>
+                                    <input type="text" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin"  placeholder="Laki-laki / Perempuan">
 
-                                    <input type="radio" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value='P'>Perempuan<br>
                                     @error('jenis_kelamin')
                                     <div class="alert alert-danger mt-2">
                                         {{ $message }}
                                     </div>
                                     @enderror
                                 </div>
-
                                 <div class="form-group">
                                     <label class="font-weight-bold">TEMPAT KELAHIRAN</label>
                                     <input type="text" class="form-control @error('tempat_kelahiran') is-invalid @enderror" name="tempat_kelahiran" value="{{ old('tempat_kelahiran') }}" placeholder="Masukkan tempat_kelahiran">

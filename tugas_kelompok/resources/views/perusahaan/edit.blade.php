@@ -37,9 +37,8 @@
 
                                 <div class="form-group">
                                     <label class="font-weight-bold">JENIS KELAMIN</label>
-                                    <input type="radio" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value='L'>Laki-laki<br>
+                                    <input type="text" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value="{{ old('jenis_kelamin', $perusahaan->jenis_kelamin) }}" placeholder="Laki-laki / Perempuan">
 
-                                    <input type="radio" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value='P'>Perempuan<br>
                                     @error('jenis_kelamin')
                                     <div class="alert alert-danger mt-2">
                                         {{ $message }}
