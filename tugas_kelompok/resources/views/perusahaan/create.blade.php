@@ -43,9 +43,9 @@
 
                                 <div class="form-group">
                                     <label class="font-weight-bold">JENIS KELAMIN</label>
-                                    <input type="radio" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value='Laki-laki'>Laki-laki<br>
+                                    <input type="radio" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value='L'>Laki-laki<br>
 
-                                    <input type="radio" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value='Perempuan'>Perempuan<br>
+                                    <input type="radio" class="form-control @error('jenis_kelamin') is-invalid @enderror" name="jenis_kelamin" value='P'>Perempuan<br>
                                     @error('jenis_kelamin')
                                     <div class="alert alert-danger mt-2">
                                         {{ $message }}
