@@ -20,14 +20,16 @@ use App\Http\Controllers\PegawaiController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('landing');
 });
 Route::resource('perusahaan', PerusahaanController::class);
 
 Route::resource('pegawai', PegawaiController::class);
 
+
 Route::get('/login', [LoginController::class, 'index']);
 Route::post('/login', [LoginController::class, 'authenticate']);
+
 
 Route::get('/register', [RegisterController::class, 'index']);
 Route::post('/register', [RegisterController::class, 'store']);
