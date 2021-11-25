@@ -12,12 +12,10 @@ class LoginController extends Controller
         return view('login.index',['title' => 'Login']    
         );
     }
-
     public function authenticate(Request $request)
     {
         
             return redirect()->intended('/pegawai');
         
     }
-    
 }

@@ -12,6 +12,7 @@ class RegisterController extends Controller
         return view('register.index',['title' => 'Register']    
         );
     }
+    
     public function store(Request $request)
     {
        $validateData = $request->validate([

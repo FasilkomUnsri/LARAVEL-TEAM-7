@@ -86,7 +86,6 @@ class PegawaiController extends Controller
         }
     }
 
-
     public function destroy($id)
     {
         $pegawai = Pegawai::findOrFail($id);

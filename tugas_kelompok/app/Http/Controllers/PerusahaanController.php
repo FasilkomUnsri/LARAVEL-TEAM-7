@@ -69,7 +69,6 @@ class PerusahaanController extends Controller
         $perusahaan = Perusahaan::findOrFail($perusahaan->id);
 
         if($request->file('gambar') == "") {
-
             $perusahaan->update([
             'nama'     => $request->nama,
             'jenis_kelamin'     => $request->jenis_kelamin,
@@ -78,7 +77,6 @@ class PerusahaanController extends Controller
             'alamat'   => $request->alamat,
             'jabatan'   => $request->jabatan
             ]);
-
         } else {
 
             Storage::disk('local')->delete('public/perusahaans/'.$perusahaan->gambar);
@@ -97,14 +95,12 @@ class PerusahaanController extends Controller
             ]);
 
         }
-
         if($perusahaan){
             return redirect()->route('perusahaan.index')->with(['success' => 'Data Berhasil Diupdate!']);
         }else{
             return redirect()->route('perusahaan.index')->with(['error' => 'Data Gagal Diupdate!']);
         }
     }
-
 
     public function destroy($id)
     {
