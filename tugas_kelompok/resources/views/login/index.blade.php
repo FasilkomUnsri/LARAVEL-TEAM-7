@@ -9,6 +9,8 @@
     <title>Signin Template · Bootstrap v5.1</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sign-in/">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+    crossorigin="anonymous"/>
 
     
 
@@ -35,16 +37,20 @@
     <!-- Custom styles for this template -->
     <link href="/style/signin.css" rel="stylesheet">
   </head>
-  
-<body class="text-center" style="background-color:rgb(218, 42, 42)">
+
+  <body class="text-center">
+
     
 
-<main class="form-signin">
+<main class="form-signin" style="background-color: rgba(139, 135, 129, 0.062)">
   <form action="/login" method="POST">
 
     @csrf
     
-    <h1 class="h3 mb-3 fw-normal" style="font-family: serif">Please sign in</h1>
+    <h1 class="h3 mb-3 fw-normal" style="font-family: serif">Log In</h1>
+    <div class="logo-login">
+      <i class="fas fa-key"></i>
+    </div>
 
     <div class="form-floating">
       <input type="email" name="email" class="form-control" @error('email')@enderror is-invalid id="email" placeholder="name@example.com">
@@ -66,7 +72,7 @@
     <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
     
   </form>
-  <small>Not registered ?<a href="/register">Register Now !</small>
+  <small style="color: whitesmoke">Not registered ?<a href="/register">Register Now !</small>
 </main>
 
 

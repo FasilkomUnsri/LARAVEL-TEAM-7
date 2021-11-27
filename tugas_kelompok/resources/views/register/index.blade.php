@@ -7,6 +7,8 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
     <title>Registrasi</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+    crossorigin="anonymous"/>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sign-in/">
 
@@ -37,11 +39,14 @@
   </head>
   <body class="text-center">
     
-<main class="form-registration">
+  <main class="form-registration" style="background-color: rgba(139, 135, 129, 0.062)">
   <form action="/register" method="POST">
     @csrf
     
-    <h1 class="h3 mb-3 fw-normal">REGISTRASI FORM</h1>
+    <h1 class="h3 mb-3 fw-normal" style="font-family: serif">Registration</h1>
+    <div class="logo-login">
+      <i class="fas fa-user-plus"></i>
+    </div>
 
     <div class="form-floating">
       <input type="text" name="name" class="form-control @error('name')is-invalid @enderror" id="name" placeholder="Name" required value="{{ old('name') }}">

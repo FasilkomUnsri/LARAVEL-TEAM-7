@@ -14,6 +14,8 @@
     />
     <link href="landing/style.css"rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
 </head>
 <body>
     <!-- Navbar -->
@@ -24,24 +26,23 @@
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
+        <ul class="navbar-nav ms-auto">
+
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
-              <path fill-rule="evenodd" d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"/>
-              <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"/></svg>
-              </a>
-              </li>
-              <li class="nav-item">
+                <a class="nav-link active " aria-current="page" href="/home"><i class="fas fa-home"></i></a>
+            </li>
+
+            <li class="nav-item">
                 <a class="nav-link " aria-current="page" href="/pegawai"><i class="fas fa-users"></i></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="/perusahaan"><i class="fas fa-address-card"></i></i></a>
-              </li>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link " href="/perusahaan"><i class="fas fa-address-card"></i></i></a>
+            </li>
               
-              <li class="nav-item">
+            <li class="nav-item">
                 <a class="nav-link" href="/login"><i class="fas fa-sign-out-alt"></i>Logout</a>
-              </li>
-            </ul>
+            </li>
+        </ul>
           </div>
         </div>
       </nav>
@@ -50,7 +51,7 @@
     <div class="container-fluid banner">
         <div class="container text-center">
             <h4 class="display-6">Selamat Datang di Website Kami</h4>
-            <h3 class="display-1">TEAM 7!</h3>
+            <h3 class="display-7">TEAM 7</h3>
             <a href="#layanan"></a>
                 <button type="button" class="btn btn-danger btn-lg">Cek Layanan</button>
         </div>
@@ -84,7 +85,7 @@
     <!-- portofolio -->
     <div class="container-fluid pt-5 pb-5 bg-light">
         <div class="container text-center">
-            <h2 class="display-3 id=portofolio">Portofolio</h2>
+            <h2 class="display-3" id=portofolio>Portofolio</h2>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus, quidem! Et voluptatum magni sapiente qui non corporis assumenda, totam modi!</p>
             <div class="row pt-4 gx-4 gy-4">
                 <div class="col-md-4">
@@ -190,10 +191,10 @@
             </div>
         </div>
     </div>
-    <!-- klien -->
+    <!-- Anggota -->
     <div class="container-fluid pt-5 pb-5 bg-light">
         <div class="container text-center">
-            <h2 class="display-3" id=klien>ANGGOTA | TEAM 7</h2>
+            <h2 class="display-4" id=klien>ANGGOTA | TEAM 7</h2>
            
             <div class="row pt-4 gx-4 gy-4">
                 <div class="col-md-4 text-center klien">
@@ -213,8 +214,8 @@
                     <img src="../style/boy.png"
                     width="200"    class="rounded-circle mb-3"
                     />
-                    <h4>Michael Dell</h4>
-                    <p>Website yang renponsif!</p>
+                    <h4>Mei Yuhanis Putri Litro</h4>
+                    <p>NIM | 09020582024036</p>
                     <p>
                         <a href="" class="social"><i class="fab fa-twitter"></i></a>
                         <a href="" class="social"><i class="fab fa-facebook-f"></i></a>
@@ -226,21 +227,8 @@
                     <img src="../style/boy.png"
                     width="200"    class="rounded-circle mb-3"
                     />
-                    <h4>Paul</h4>
-                    <p>Customer merasa puas!</p>
-                    <p>
-                        <a href="" class="social"><i class="fab fa-twitter"></i></a>
-                        <a href="" class="social"><i class="fab fa-facebook-f"></i></a>
-                        <a href="" class="social"><i class="fab fa-linkedin-in"></i></a>
-                    </p>
-                </div>
-
-                <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
-                    width="200"    class="rounded-circle mb-3"
-                    />
-                    <h4>John Doe</h4>
-                    <p>Pelayanan nya bagus!</p>
+                    <h4>Anadya Nisrina Salsabila</h4>
+                    <p>NIM | 09020582024053</p>
                     <p>
                         <a href="" class="social"><i class="fab fa-twitter"></i></a>
                         <a href="" class="social"><i class="fab fa-facebook-f"></i></a>
@@ -252,8 +240,21 @@
                     <img src="../style/boy.png"
                     width="200"  class="rounded-circle mb-3"
                     />
-                    <h4>Michael Dell</h4>
-                    <p>Website yang renponsif!</p>
+                    <h4>Muhammad Iqbal</h4>
+                    <p>NIM | 09020582024009</p>
+                    <p>
+                        <a href="" class="social"><i class="fab fa-twitter"></i></a>
+                        <a href="" class="social"><i class="fab fa-facebook-f"></i></a>
+                        <a href="" class="social"><i class="fab fa-linkedin-in"></i></a>
+                    </p>
+                </div>
+               
+                <div class="col-md-4 text-center klien">
+                    <img src="../style/boy.png"
+                    width="200"  class="rounded-circle mb-3"
+                    />
+                    <h4>M Regy Septiansyah</h4>
+                    <p>NIM | 09020582024016</p>
                     <p>
                         <a href="" class="social"><i class="fab fa-twitter"></i></a>
                         <a href="" class="social"><i class="fab fa-facebook-f"></i></a>
@@ -265,8 +266,8 @@
                     <img src="../style/boy.png"
                     width="200"class="rounded-circle mb-3"
                     />
-                    <h4>Paul</h4>
-                    <p>Customer merasa puas!</p>
+                    <h4>Selamat Alfisyahrin</h4>
+                    <p>NIM | 09020582024020</p>
                     <p>
                         <a href="" class="social"><i class="fab fa-twitter"></i></a>
                         <a href="" class="social"><i class="fab fa-facebook-f"></i></a>

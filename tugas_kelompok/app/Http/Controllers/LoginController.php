@@ -16,7 +16,7 @@ class LoginController extends Controller
     public function authenticate(Request $request)
     {
         
-            return redirect()->intended('/pegawai');
+            return redirect()->intended('/home');
         
     }
     
