@@ -50,7 +50,9 @@
     <!-- banner -->
     <div class="container-fluid banner">
         <div class="container text-center">
-            <h4 class="display-6">Selamat Datang di Website Kami</h4>
+            <h4 class="display-6"><marquee class="py-3" direction="left" onmouseover="this.stop()" 
+                onmouseout="this.start()" scrollamount="10" behavior="Scroll">
+                Selamat Datang di Website Kami - Company Profile </marquee></h4>
             <h3 class="display-7">TEAM 7</h3>
             <a href="#layanan"></a>
                 <button type="button" class="btn btn-danger btn-lg">Cek Layanan</button>
@@ -60,24 +62,24 @@
     <div class="container-fluid layanan pt-5 pb-5">
         <div class="container text-center">
             <h2 class="display-3" id="layanan">Layanan</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, corporis!</p>
+            <p>Percayakan Kepada Kami Masalah Anda Dengan</p>
             <div class="row pt-4">
                 <div class="col-md-4">
                     <span class="lingkaran"><i class="fas fa-building fa-3x"></i></span>
                     <h3 class="mt-3">Perusahaan</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, nesciunt.</p>
+                    <p>Perusahaan kami melindungi informasai data pengguna, dan keamanan pengunjung.</p>
                 </div>
 
                 <div class="col-md-4">
                     <span class="lingkaran"><i class="fas fa-chart-network fa-3x"></i></span>
                     <h3 class="mt-3">Komunitas</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, nesciunt.</p>
+                    <p>Komunitas yang telah menjalin kerjasama dengan perusahaan. Baik lokal maupun internasional.</p>
                 </div>
 
                 <div class="col-md-4">
                     <span class="lingkaran"><i class="fas fa-money-check-edit fa-3x"></i></span>
                     <h3 class="mt-3">Service</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, nesciunt.</p>
+                    <p>Menyediakan Customer Service untuk mencapai kepuasan dan kenyamanan pengunjung.</p>
                 </div>
             </div>
         </div>
@@ -86,7 +88,7 @@
     <div class="container-fluid pt-5 pb-5 bg-light">
         <div class="container text-center">
             <h2 class="display-3" id=portofolio>Portofolio</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus, quidem! Et voluptatum magni sapiente qui non corporis assumenda, totam modi!</p>
+            <p>Sebuah program yang dikembangkan tidak akan luput dari error, sehebat apapun programmernya.!</p>
             <div class="row pt-4 gx-4 gy-4">
                 <div class="col-md-4">
                     <div class="card">
@@ -179,7 +181,7 @@
     <div class="container-fluid pt-5 pb-5">
         <div class="container">
             <h2 class="display-3 text-center" id="tentang">Tentang</h2>
-            <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, odit!</p>
+            <p class="text-center">Sejarah singkat berdirinya perusahaan dan identitas perusahaan</p>
             <div class="clearfix pt-5"><img src="https://www.wisdomtech.co.in/assets/images/bg/about-us-03.jpg"
                 class="col-md-6 float-md-end mb-3 crop-img" 
                 width="300" 
@@ -198,7 +200,7 @@
            
             <div class="row pt-4 gx-4 gy-4">
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/girl.png"
                     width="200"    class="rounded-circle mb-3"
                     />
                     <h4>Marita Santi</h4>
@@ -211,7 +213,7 @@
                 </div>
 
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/girl.png"
                     width="200"    class="rounded-circle mb-3"
                     />
                     <h4>Mei Yuhanis Putri Litro</h4>
@@ -224,7 +226,7 @@
                 </div>
 
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/girl.png"
                     width="200"    class="rounded-circle mb-3"
                     />
                     <h4>Anadya Nisrina Salsabila</h4>
@@ -281,7 +283,7 @@
     <div class="container-fluid pt-5 pb-5 kontak">
         <div class="container">
             <h2 class="display-3 text-center" id="kontak">Kontak Kami</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste, temporibus.</p>
+            <p class="text-center">Komunikasi Dengan Pengelola Website</p>
             <div class="row pb-3">
                 <div class="col-md-6">
                     <input class="form-control form-control-lg mb-3"
