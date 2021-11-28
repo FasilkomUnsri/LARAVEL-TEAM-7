@@ -20,8 +20,13 @@ use App\Http\Controllers\PegawaiController;
 */
 
 Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::get('/home', function () {
     return view('landing');
 });
+
 Route::resource('perusahaan', PerusahaanController::class);
 
 Route::resource('pegawai', PegawaiController::class);
