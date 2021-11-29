@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>pegawai</title>
+    <title>Pegawai</title>
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
 </head>
 <body class="d-flex flex-column h-100">
