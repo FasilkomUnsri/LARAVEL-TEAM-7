@@ -79,7 +79,7 @@
                 <div class="col-md-4">
                     <span class="lingkaran"><i class="fas fa-money-check-edit fa-3x"></i></span>
                     <h3 class="mt-3">Service</h3>
-                    <p>Menyediakan Customer Service untuk mencapai kepuasan dan kenyamanan pengunjung.</p>
+                    <p>Kami Menyediakan Customer Service untuk mencapai kepuasan dan kenyamanan pengunjung.</p>
                 </div>
             </div>
         </div>
