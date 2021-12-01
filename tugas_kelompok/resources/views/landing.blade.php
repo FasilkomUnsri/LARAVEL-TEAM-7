@@ -96,7 +96,7 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
+                        <h5 class="card-title">MEDIA</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
+                        <h5 class="card-title">NETWORK</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
+                        <h5 class="card-title">SOCIAL RELATIONS.</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
+                        <h5 class="card-title">KNOWLEDGE.</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
                         </div>
                     </div>
@@ -152,7 +152,7 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
+                        <h5 class="card-title">ROBOTIC</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
+                        <h5 class="card-title">APPLICATION</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
                         </div>
                     </div>
@@ -184,10 +184,7 @@
                 class="col-md-6 float-md-end mb-3 crop-img" 
                 width="300" 
                 height="300"/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque laboriosam cumque aliquid culpa optio molestiae!</p>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti possimus facilis soluta officia consectetur distinctio!</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nisi natus facilis, culpa quam nemo!</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum exercitationem vitae molestias architecto hic magni, voluptates non ad fugit!</p>
+                <p>Perusahaan LARAVEL TEAM 7 yang berdiri sejak tahun 2005 berlokasi di Palembang, telah berkembang pesat sejak tahun 2015 sampai sekarang dan telah sampai pada tahap go internasional yang bergerak dalam bidang programing,  jaringan internet, membuat teknologi canggih,   </p>
             </div>
         </div>
     </div>
