@@ -98,8 +98,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">Teknologi.</h5>
+                        <p class="card-text">Yang canggih.</p>
                         </div>
                     </div>
                 </div>
@@ -112,8 +112,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">Teknologi.</h5>
+                        <p class="card-text">Simple.</p>
                         </div>
                     </div>
                 </div>
@@ -126,8 +126,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">Teknologi.</h5>
+                        <p class="card-text">Multifungsi.</p>
                         </div>
                     </div>
                 </div>
@@ -140,8 +140,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">Teknologi.</h5>
+                        <p class="card-text">Terjangkau.</p>
                         </div>
                     </div>
                 </div>
@@ -154,8 +154,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">Teknologi.</h5>
+                        <p class="card-text">Mudah.</p>
                         </div>
                     </div>
                 </div>
@@ -168,8 +168,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">Lorem, ipsum.</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">Teknologi.</h5>
+                        <p class="card-text">Masa kini.</p>
                         </div>
                     </div>
                 </div>
