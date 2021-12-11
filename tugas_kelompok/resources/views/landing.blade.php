@@ -60,18 +60,18 @@
     <div class="container-fluid layanan pt-5 pb-5">
         <div class="container text-center">
             <h2 class="display-3" id="layanan">Layanan</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, corporis!</p>
+            <p>PERUSAHAAN</p>
             <div class="row pt-4">
                 <div class="col-md-4">
                     <span class="lingkaran"><i class="fas fa-building fa-3x"></i></span>
                     <h3 class="mt-3">Perusahaan</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, nesciunt.</p>
+                    <p>LARAVEL 7</p>
                 </div>
 
                 <div class="col-md-4">
                     <span class="lingkaran"><i class="fas fa-chart-network fa-3x"></i></span>
                     <h3 class="mt-3">Komunitas</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, nesciunt.</p>
+                    <p>LARAVEL TEAM 7</p>
                 </div>
 
                 <div class="col-md-4">
@@ -86,7 +86,7 @@
     <div class="container-fluid pt-5 pb-5 bg-light">
         <div class="container text-center">
             <h2 class="display-3" id=portofolio>Portofolio</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus, quidem! Et voluptatum magni sapiente qui non corporis assumenda, totam modi!</p>
+            <p>PERUSAHAAN</p>
             <div class="row pt-4 gx-4 gy-4">
                 <div class="col-md-4">
                     <div class="card">
@@ -97,7 +97,7 @@
                         />
                         <div class="card-body">
                         <h5 class="card-title">MEDIA</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <p class="card-text">INTERNET , TELEVISION , RADIO</p>
                         </div>
                     </div>
                 </div>
@@ -110,8 +110,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">NETWORK</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">JARINGAN</h5>
+                        <p class="card-text">INTERNET WIFI LAN MAN WAN </p>
                         </div>
                     </div>
                 </div>
@@ -124,8 +124,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">SOCIAL RELATIONS.</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">HUBUNGAN SOSIAL.</h5>
+                        <p class="card-text">BERHUBUNGAN, BERKOMUNIKASI</p>
                         </div>
                     </div>
                 </div>
@@ -138,8 +138,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">KNOWLEDGE.</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">PENGETAHUAN.</h5>
+                        <p class="card-text">DATA SISTEM INFORMASI, ILMU INFORMASI, DAN KEAMANAN INFORMASI </p>
                         </div>
                     </div>
                 </div>
@@ -152,8 +152,8 @@
                         height="200"
                         />
                         <div class="card-body">
-                        <h5 class="card-title">ROBOTIC</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <h5 class="card-title">TEKNOLOGI</h5>
+                        <p class="card-text">MESIN, ROBOT, INTERNET</p>
                         </div>
                     </div>
                 </div>
@@ -167,7 +167,7 @@
                         />
                         <div class="card-body">
                         <h5 class="card-title">APPLICATION</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore deserunt tenetur excepturi? Explicabo, recusandae doloribus.</p>
+                        <p class="card-text">FACEBOOK, INSTAGRAM , WHATSAPP, ZOOM , WINDOWS EXCEL,POWER POINT, WORD</p>
                         </div>
                     </div>
                 </div>
@@ -179,12 +179,14 @@
     <div class="container-fluid pt-5 pb-5">
         <div class="container">
             <h2 class="display-3 text-center" id="tentang">Tentang</h2>
-            <p class="text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique, odit!</p>
+            <p class="text-center">PERUSAHAAN</p>
             <div class="clearfix pt-5"><img src="https://www.wisdomtech.co.in/assets/images/bg/about-us-03.jpg"
                 class="col-md-6 float-md-end mb-3 crop-img" 
                 width="300" 
                 height="300"/>
                 <p>Perusahaan LARAVEL TEAM 7 yang berdiri sejak tahun 2005 berlokasi di Palembang, telah berkembang pesat sejak tahun 2015 sampai sekarang dan telah sampai pada tahap go internasional yang bergerak dalam bidang programing,  jaringan internet, membuat teknologi canggih,   </p>
+                <p>telah berkembang pesat sejak tahun 2015 sampai sekarang   </p>
+                <p>bergerak dalam bidang programing, jaringan internet, membuat teknologi canggih,   </p>
             </div>
         </div>
     </div>
@@ -195,7 +197,7 @@
            
             <div class="row pt-4 gx-4 gy-4">
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/SMA1.png"
                     width="200"    class="rounded-circle mb-3"
                     />
                     <h4>Marita Santi</h4>
@@ -208,7 +210,7 @@
                 </div>
 
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/SMA2.png"
                     width="200"    class="rounded-circle mb-3"
                     />
                     <h4>Mei Yuhanis Putri Litro</h4>
@@ -221,7 +223,7 @@
                 </div>
 
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/SMA5.png"
                     width="200"    class="rounded-circle mb-3"
                     />
                     <h4>Anadya Nisrina Salsabila</h4>
@@ -234,7 +236,7 @@
                 </div>
 
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/SMA3.png"
                     width="200"  class="rounded-circle mb-3"
                     />
                     <h4>Muhammad Iqbal</h4>
@@ -247,7 +249,7 @@
                 </div>
                
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/SMA.png"
                     width="200"  class="rounded-circle mb-3"
                     />
                     <h4>M Regy Septiansyah</h4>
@@ -260,7 +262,7 @@
                 </div>
 
                 <div class="col-md-4 text-center klien">
-                    <img src="../style/boy.png"
+                    <img src="../style/SMA4.png"
                     width="200"class="rounded-circle mb-3"
                     />
                     <h4>Selamat Alfisyahrin</h4>
